@@ -1,0 +1,57 @@
+.mainhead{
+    color: gainsboro;
+}
+
+.header{
+    background-color: rgba(27, 131, 210, 0.634);
+    color: black;
+    height: 75px;
+    padding-top: 10px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.subheader{
+    background-color: rgba(180, 195, 202, 0.565);
+    height: 50px;
+    text-align: center;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.mainbody{
+    left: 10px;
+    top: 10px;
+    padding-left: 5%;
+    padding-top: 5px;
+    background-color:aliceblue;
+}
+
+.rightmenu{
+    right: 20px;
+}
+
+.footer{
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 30px;
+    background-color: rgba(198, 211, 217, 0.999);
+    color: black;
+    position: fixed;
+    text-align: center;
+    padding-top: 6px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.italics{
+    font-style: italic;
+}
+
+.img{
+    width: 30%;
+    float: right;
+    padding-right: 20px;
+    max-height: 600px;
+    padding-top: 25px;
+}
