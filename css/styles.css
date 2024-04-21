@@ -10704,7 +10704,8 @@ header.masthead .site-heading .h1 {
 header.masthead .page-heading .subheading,
 header.masthead .site-heading .subheading {
   font-size: 1.5rem;
-  font-weight: 300;
+  color: gainsboro;
+  font-weight:bold;
   line-height: 1.1;
   display: block;
   margin-top: 0.625rem;
